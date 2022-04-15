@@ -38,6 +38,13 @@
 <br />
 
 
+### Анализ:
+
+| **Название** | **Описание** | **Результат** |
+| -------------------- | :--------------------- |:---------------------------:|
+| [Анализ mlxtend (apriori, association_rules)](https://github.com/Asterlok/cross_sales_analysis/blob/main/cross_sales_(1)_mlxtend.ipynb)|Выявление ассоциативных правил в датасете покупок с заданной точностью.|[Ноутбук](https://github.com/Asterlok/cross_sales_analysis/blob/main/cross_sales_(1)_mlxtend.ipynb) и [страница](https://github.com/Asterlok/cross_sales_analysis)|
+
+
 ### Алгоритмы:
 
 | **Название** | **Описание** | **Результат** |
