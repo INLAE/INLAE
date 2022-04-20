@@ -44,6 +44,12 @@
 | -------------------- | :--------------------- |:---------------------------:|
 | [Анализ mlxtend (apriori, association_rules)](https://github.com/Asterlok/cross_sales_analysis/blob/main/cross_sales_(1)_mlxtend.ipynb)|Выявление ассоциативных правил в датасете покупок с заданной точностью.|[Ноутбук](https://github.com/Asterlok/cross_sales_analysis/blob/main/cross_sales_(1)_mlxtend.ipynb) и [страница](https://github.com/Asterlok/cross_sales_analysis)|
 
+### Волнующие голову алгоритмы:
+
+| **Название**|**Описание** | **Результат** |
+| -------------------- |:-------------------- |:---------------------------:|
+|Разложение на простые множители. Говорят, задача с собеседования на позицию Junior Data Engineer & Data Science в СБЕР| Дано число n. Необходимо разложить факториал этого числа на простые множители и представить результат в строковом виде. Простые числа должны быть в порядке возрастания. Когда показатель простого числа равен 1, не ставьте показатель степени.|[Ноутбук решения](https://github.com/Asterlok/special_algorithms/blob/main/Factorization_of_a_number.ipynb)
+
 
 ### Алгоритмы:
 
