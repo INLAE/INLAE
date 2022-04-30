@@ -43,6 +43,7 @@
 | **Название** | **Описание** | **Результат** |
 | -------------------- | :--------------------- |:---------------------------:|
 | [Анализ mlxtend (apriori, association_rules)](https://github.com/Asterlok/cross_sales_analysis/blob/main/cross_sales_(1)_mlxtend.ipynb)|Выявление ассоциативных правил в датасете покупок с заданной точностью.|[Ноутбук](https://github.com/Asterlok/cross_sales_analysis/blob/main/cross_sales_(1)_mlxtend.ipynb) и [страница](https://github.com/Asterlok/cross_sales_analysis)|
+| [Логистическая регрессия)](https://github.com/Asterlok/special_algorithms/blob/main/Logic_regression.ipynb)|Задача: обучить модель и предсказывать согласятся ли потенциальные клиенты с некоторыми характеристиками на предложение банка.|[Ноутбук](https://github.com/Asterlok/cross_sales_analysis/blob/main/cross_sales_(1)_mlxtend.ipynb) и [страница](https://github.com/Asterlok/cross_sales_analysis)|
 
 ### Волнующие голову алгоритмы:
 
