@@ -49,7 +49,7 @@
 
 | **Название** | **Описание** | **Результат** |
 | -------------------- | :--------------------- |:---------------------------:|
-| [SQL & Python Tkinter](https://github.com/Asterlok/cross_sales_analysis/blob/main/cross_sales_(1)_mlxtend.ipynb)|Курсовая работа с графическим приложением, взаимодействующим с БД.|[Ноутбук](https://github.com/Asterlok/cross_sales_analysis/blob/main/cross_sales_(1)_mlxtend.ipynb) и [описание и схема .pdf](https://github.com/Asterlok/cross_sales_analysis)|
+| [SQL & Python Tkinter](https://github.com/Asterlok/SQL/blob/main/db.py)|Курсовая работа с графическим приложением, взаимодействующим с БД.|[Описание и схема .pdf](https://github.com/Asterlok/SQL/blob/main/Manual.pdf)|
 
 ### Интересные алгоритмы:
 | **Название**|**Описание** | **Результат** |
