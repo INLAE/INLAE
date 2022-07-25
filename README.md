@@ -49,7 +49,7 @@
 
 | **Название** | **Описание** | **Результат** |
 | -------------------- | :--------------------- |:---------------------------:|
-| [SQL & Python Tkinter](https://github.com/Asterlok/SQL/blob/main/db.py)|Курсовая работа с графическим приложением, взаимодействующим с БД.|[Описание и схема .pdf](https://github.com/Asterlok/SQL/blob/main/Manual.pdf)|
+| [SQL & Python Tkinter](https://github.com/Asterlok/SQL/blob/main/db.py)|Курсовая работа с графическим приложением, взаимодействующим с БД.|[Описание и схема .pdf](https://github.com/Asterlok/SQL_coursework/blob/main/Manual.pdf)|
 
 ### Интересные алгоритмы:
 | **Название**|**Описание** | **Результат** |
