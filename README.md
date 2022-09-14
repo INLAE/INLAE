@@ -22,7 +22,8 @@
 <br />
 
 ### Инструменты
-
+<img align="left" alt="GIT" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Git-logo-orange.svg/1920px-Git-logo-orange.svg.png" />
+<img align="left" alt="Java" width="25px" src="https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Java_logo.svg/43px-Java_logo.svg.png" />
 <img align="left" alt="Python" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
 <img align="left" alt="SQL" width="35px" src="https://cdn-icons-png.flaticon.com/512/337/337953.png" />
 <img align="left" alt="Docker" width="35px" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" />
