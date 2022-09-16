@@ -37,7 +37,7 @@
 
 <br />
 
-<img align="left" alt="LeetCode" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/188px-LeetCode_logo_white_no_text.svg.png?20200120234911" />
+<img align="left" alt="LeetCode" width="92px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/188px-LeetCode_logo_white_no_text.svg.png?20200120234911" />
 
 ## [LeetCode](https://github.com/Asterlok/leetcode)
 ### [Ссылка ведёт на репозиторий моих задач на LeetCode](https://github.com/Asterlok/leetcode)
