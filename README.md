@@ -37,6 +37,13 @@
 
 <br />
 
+<img align="left" alt="LeetCode" width="75px" src="https://repository-images.githubusercontent.com/127407957/95ef1b80-2578-11ea-98af-31e60fac7c58" />
+
+## [LeetCode](https://github.com/Asterlok/leetcode)
+### [Ссылка ведёт на репозиторий моих задач на LeetCode](https://github.com/Asterlok/leetcode)
+
+
+<br />
 
 ### Java Spring:
 
