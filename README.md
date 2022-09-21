@@ -2,16 +2,15 @@
 
 ![](https://komarev.com/ghpvc/?username=IvanAnvi)
 
-- 🕗 Довожу всё до конца
-- 💪 Активно занимаюсь физическим спортом. Киберспортсмен в дисциплине FIFA
-- ⚡ Участвую в чемпионатах по [решению бизнес-кейсов](https://github.com/IvanAnvi/wastepaper)
-- 📝 Веду заметки в [Instagram](https://www.instagram.com/notes.anvi/) и [Телеграм](https://t.me/notes_inlae)
-- 🎓 [РУТ(МИИТ)](https://www.miit.ru/) Информатика и Вычислительная Техника, Coursera и [Stepik](https://stepik.org/users/369769667?auth=registration)
+- 💪 Esportsman in FIFA discipline
+- ⚡I participate in championships in [solving business cases](https://github.com/IvanAnvi/wastepaper)
+- 📝 Taking notes in [Telegram](https://t.me/notes_inlae)
+- 🎓 [RUT(MIIT)](https://www.miit.ru/en) Informatics and Computer Engineering, Coursera, [Stepik](https://stepik.org/users/369769667?auth=registration) and [LeetCode](https://leetcode.com/inlae) 
 
-### [Сертификаты и Дипломы](https://github.com/IvanAnvi/wastepaper)
+### [Certificates and Diplomas](https://github.com/IvanAnvi/wastepaper)
 
 
-### На связи
+### Connect
 
 
 [<img align="left" alt="IvanAnvi | Instagram" width="35px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
@@ -21,7 +20,7 @@
 
 <br />
 
-### Инструменты
+### Tools
 <img align="left" alt="GIT" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Git-logo-orange.svg/1920px-Git-logo-orange.svg.png" />
 <img align="left" alt="Java" width="25px" src="https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Java_logo.svg/43px-Java_logo.svg.png" />
 <img align="left" alt="Python" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
@@ -33,14 +32,14 @@
 <br />
 <br />
 
-### [Сертификаты и Дипломы](https://github.com/IvanAnvi/wastepaper)
+### [Certificates and Diplomas](https://github.com/IvanAnvi/wastepaper)
 
 <br />
 
 <img align="left" alt="LeetCode" width="92px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/188px-LeetCode_logo_white_no_text.svg.png?20200120234911" />
 
-## [LeetCode (ссылка на профиль)](https://leetcode.com/inlae/)
-### [Ссылка ведёт на репозиторий моих задач на LeetCode](https://github.com/Asterlok/leetcode)
+## [LeetCode (link to profile)](https://leetcode.com/inlae/)
+### [The link leads to the repository of my tasks on LeetCode](https://github.com/Asterlok/leetcode)
 
 
 <br />
