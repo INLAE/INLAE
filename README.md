@@ -62,7 +62,7 @@
 | **Название** | **Описание** | **Результат** |
 | -------------------- | :--------------------- |:---------------------------:|
 | [SQL & Python Tkinter](https://github.com/Asterlok/SQL/blob/main/db.py)|Курсовая работа с графическим приложением, взаимодействующим с БД.|[Описание и схема .pdf](https://github.com/Asterlok/SQL_coursework/blob/main/Manual.pdf)|
-| [SQL Windows Functions](https://github.com/Asterlok/SQL_coursework/blob/main/SQL_Ivanushkin_TEST-WORK.pdf)|Тестовое задание на стажировку в Сбер|[Здесь .pdf](https://github.com/Asterlok/SQL_coursework/blob/main/SQL_Ivanushkin_TEST-WORK.pdf)|
+| [SQL Windows Functions](https://github.com/Asterlok/SQL_coursework/blob/main/SQL_Ivanushkin_TEST-WORK.pdf)|Тестовое задание на знание оконных функций.|[Здесь .pdf](https://github.com/Asterlok/SQL_coursework/blob/main/SQL_Ivanushkin_TEST-WORK.pdf)|
 
 ### Интересные алгоритмы:
 | **Название**|**Описание** | **Результат** |
