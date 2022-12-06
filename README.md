@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=IvanAnvi)
 
-- 💪 Esportsman in FIFA discipline
+- 💪 Java Spring student
 - ⚡I participate in championships in [solving business cases](https://github.com/IvanAnvi/wastepaper)
 - 📝 Taking notes in [Telegram](https://t.me/notes_inlae)
 - 🎓 [RUT(MIIT)](https://www.miit.ru/en) Informatics and Computer Engineering, Coursera, [Stepik](https://stepik.org/users/369769667?auth=registration) and [LeetCode](https://leetcode.com/inlae) 
@@ -21,8 +21,10 @@
 <br />
 
 ### Tools
-<img align="left" alt="GIT" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Git-logo-orange.svg/1920px-Git-logo-orange.svg.png" />
-<img align="left" alt="Java" width="25px" src="https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Java_logo.svg/43px-Java_logo.svg.png" />
+
+<img align="left" alt="Spring" width="105px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1280px-Spring_Framework_Logo_2018.svg.png" />
+<img align="left" alt="GIT" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Git-logo-orange.svg/1920px-Git-logo-orange.svg.png" />
+<img align="left" alt="Java" width="35px" src="https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Java_logo.svg/43px-Java_logo.svg.png" />
 <img align="left" alt="Python" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
 <img align="left" alt="SQL" width="35px" src="https://cdn-icons-png.flaticon.com/512/337/337953.png" />
 <img align="left" alt="Docker" width="35px" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" />
