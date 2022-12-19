@@ -45,9 +45,14 @@
 <br />
 
 
-### [REPO: Java Spring](https://github.com/Asterlok/python_flow/blob/main/README.md)
-<br />
+### Java Spring
 
+
+| **Название** | **Описание** |
+| -------------------- | :--------------------- |
+| [Spring Boot, Data](https://github.com/Asterlok/spring_data_practice)|MySQL, CRUD операции|
+
+<br />
 
 ### [REPO: Java Algorithms](https://github.com/INLAE/java_education)
 <br />
@@ -55,11 +60,6 @@
 ### [REPO: Python and SQL (analysis, algorithms)](https://github.com/Asterlok/python_flow/blob/main/README.md)
 <br />
 
-### Java Spring:
-
-| **Название** | **Описание** |
-| -------------------- | :--------------------- |
-| [Spring Boot](https://github.com/Asterlok/spring_data_practice)|Летняя практика. БД Spring Boot.|
 
 
 
