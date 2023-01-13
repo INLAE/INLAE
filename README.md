@@ -65,7 +65,7 @@
 
 
 
-[instagram]: https://www.instagram.com/acidumdisoxirybonucleicum/
+[instagram]: https://www.instagram.com/mulled__wine__/
 [vk]: https://vk.com/inlae
 [TG]: https://t.me/inlae
 [GM]: mailto:anvi.inlae@gmail.com
