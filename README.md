@@ -48,7 +48,7 @@
 ### Java Spring
 
 
-| **Название** | **Описание** |
+| **wonderful name** | **about** |
 | -------------------- | :--------------------- |
 | [Spring Core Security, Boot, Data](https://github.com/INLAE/moe_kino)|CRUD web-service SERVER. Auth - JWT Token|
 | [Spring Boot, Data](https://github.com/Asterlok/spring_data_practice)|MySQL, CRUD операции|
