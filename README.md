@@ -7,7 +7,6 @@
 - 📝 Taking notes in [Telegram](https://t.me/notes_inlae)
 - 🎓 [RUT(MIIT)](https://www.miit.ru/en) Informatics and Computer Engineering, Coursera, [Stepik](https://stepik.org/users/369769667?auth=registration) and [LeetCode](https://leetcode.com/inlae) 
 
-### [Certificates and Diplomas](https://github.com/IvanAnvi/wastepaper)
 
 
 ### Connect
