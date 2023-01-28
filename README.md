@@ -54,7 +54,7 @@
 <br />
 
 ### [REPO: Java Algorithms](https://github.com/INLAE/java_education)
-<br />
+
 
 ### [REPO: Python and SQL (analysis, algorithms)](https://github.com/Asterlok/python_flow/blob/main/README.md)
 <br />
