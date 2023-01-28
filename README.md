@@ -54,7 +54,7 @@
 | [Spring Boot, Data](https://github.com/Asterlok/spring_data_practice)|MySQL, CRUD операции|
 | [Demo project for Spring Boot](https://github.com/INLAE/Spring-education/tree/master/Products_Spring)|thymeleaf, GET and POST HTML|
 | [Hibernate](https://github.com/INLAE/Spring-education/tree/master/CodeFirst/src/main/java)|Code First approach using Hibernate and MySQL|
-| [Sber Online Internship](https://github.com/INLAE/Spring-education/tree/master/CodeFirst/src/main/java)|Reading data from the  .csv dataset, loading into the model and analyzing the data (max, sum, select, groupby -- using *lambda*, *stream*, *comparator*)|
+| [Sber Online Internship](https://github.com/INLAE/Spring-education/tree/master/cityPerfect/src)|[CERTIFICATE](https://github.com/INLAE/Spring-education/blob/master/virtualInternSber.pdf)  Reading data from the  .csv dataset, loading into the model and analyzing the data (sort by...,max..., sum..., select, groupby -- using *lambda*, *stream*, *comparator*)|
 
 
 <br />
