@@ -44,6 +44,7 @@
 | **wonderful name** | **about** |
 | -------------------- | :--------------------- |
 | [Spring Core Security, Boot, Data](https://github.com/INLAE/moe_kino)|CRUD web-service SERVER. Auth - JWT Token|
+| [Spring Boot Data MySQL Thymleaf](https://github.com/INLAE/Spring-education/tree/master/myGamesPS5/src/main/java/com/example/ps5games)|Client & Server CRUD web-service MySQL|
 | [Spring Boot, Data](https://github.com/Asterlok/spring_data_practice)|MySQL, CRUD операции|
 | [Demo project for Spring Boot](https://github.com/INLAE/Spring-education/tree/master/Products_Spring)|thymeleaf, GET and POST HTML|
 | [Hibernate](https://github.com/INLAE/Spring-education/tree/master/CodeFirst/src/main/java)|Code First approach using Hibernate and MySQL|
