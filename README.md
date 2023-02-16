@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=IvanAnvi)
 
-- 💪 Java Spring student
+- 💪 Data Analyst or Java Dev..?
 - ⚡I participate in championships in [solving business cases](https://github.com/IvanAnvi/wastepaper)
 - 📝 Taking notes in [Telegram](https://t.me/notes_inlae)
 - 🎓 [RUT(MIIT)](https://www.miit.ru/en) Informatics and Computer Engineering, Coursera, [Stepik](https://stepik.org/users/369769667?auth=registration) and [LeetCode](https://leetcode.com/inlae) 
