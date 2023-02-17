@@ -34,8 +34,10 @@
 <br />
 <br />
 
+
 | **Название** | **Описание** |
 | -------------------- | :--------------------- |
+| Массивный конспект по статистике [Ноутбук](https://github.com/INLAE/mat_stat/blob/main/Statistic%20Notes.ipynb)| Познакомился с такими методами статистического анализа как дисперсионный, регрессионный и кластерный анализ. Научился сравнивать группы между собой, рассчитывать коэффициенты корреляции и строить регрессионные уравнения. [Сертификат](https://github.com/INLAE/wastepaper/blob/main/stepik-certificate-76-2b1c410.pdf)
 | Виртуальная стажировка Mars [Сертификат](https://github.com/INLAE/wastepaper/blob/main/data_analysis_intern.pd)| Виртуальная стажировка в Mars (занимался Excel анализом данных (VLOOUKUP, Pivot Tables).
 | Виртуальная стажировка Java-разработка в Сбере [Сертификат](https://github.com/INLAE/wastepaper/blob/main/virtualInternSber.pdf)| Чтение данных из .csv справочника городов, загрузка в модель данных и анализ (sort by...,max..., sum..., select, groupby -- *lambda*, *stream*, *comparator*.
 | Масштабный курс по SQL от Stepik. [Сертификат](https://github.com/Asterlok/wastepaper/blob/main/SQL_Stepik.pdf)|В курсе большинство шагов — это практические задания на создание SQL-запросов.
