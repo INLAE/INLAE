@@ -45,7 +45,7 @@
 
 | **Название** | **Описание** |
 | -------------------- | :--------------------- |
-| Виртуальная стажировка Mars [Сертификат](https://github.com/INLAE/wastepaper/blob/main/data_analysis_intern.pd)| Виртуальная стажировка в Mars (занимался Excel анализом данных (VLOOUKUP, Pivot Tables).
+| Виртуальная стажировка Mars [Сертификат](https://github.com/INLAE/wastepaper/blob/main/data_analysis_intern.pdf)| Виртуальная стажировка в Mars (занимался Excel анализом данных (VLOOUKUP, Pivot Tables).
 | Виртуальная стажировка Java-разработка в Сбере [Сертификат](https://github.com/INLAE/wastepaper/blob/main/virtualInternSber.pdf)| Чтение данных из .csv справочника городов, загрузка в модель данных и анализ (sort by...,max..., sum..., select, groupby -- *lambda*, *stream*, *comparator*.
 | Масштабный курс по SQL от Stepik. [Сертификат](https://github.com/Asterlok/wastepaper/blob/main/SQL_Stepik.pdf)|В курсе большинство шагов — это практические задания на создание SQL-запросов.
 |Changellenge >> Cup IT. Аналитика Данных [Анализ](https://github.com/Asterlok/cross_sales_analysis) [Диплом](https://github.com/IvanAnvi/wastepaper/blob/main/7.%20Cup%20IT%202022%20FINAL.pdf)|Чемпионат по решению бизнес-кейса Магнит и P&G инструментами анализа данных: EXCEL, регрессия, Python (Pandas, sklearn). Прошли в финал с 1 места. В финале кейс от Северстали. Модель для оценки рисков от простоя сервисов. Вне призовых мест. Проиграли.
