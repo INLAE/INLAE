@@ -87,7 +87,7 @@
 
 
 
-[instagram]: https://www.instagram.com/mulled__wine__/
+[instagram]: https://www.instagram.com/acidumdeoxyribonucleic/
 [vk]: https://vk.com/inlae
 [TG]: https://t.me/inlae
 [GM]: mailto:anvi.inlae@gmail.com
