@@ -46,18 +46,24 @@
 
 ## SQL [-> GO TO REPO](https://github.com/INLAE/SQL_karpov_course)
 
-<br />
+<br >
 <br />
 
 ## Python education 2022 [-> GO TO REPO](https://github.com/Asterlok/python_flow/blob/main/README.md)
 
-<br />
+<br >
 <br />
 
 ## Java Projects & Algorithms [-> GO TO REPO](https://github.com/INLAE/java_education)
 
 
 <img align="left" alt="LeetCode" width="92px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/188px-LeetCode_logo_white_no_text.svg.png?20200120234911" />
+
+<br >
+<br />
+
+<br >
+<br />
 
 ## [LeetCode (link to profile)](https://leetcode.com/inlae/)
 ### [The link leads to the repository of my tasks on LeetCode](https://github.com/Asterlok/leetcode)
