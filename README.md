@@ -7,8 +7,6 @@
 - 📝 Taking notes in [Telegram](https://t.me/notes_inlae)
 - 🎓 [RUT(MIIT)](https://www.miit.ru/en) Informatics and Computer Engineering, Coursera, [Stepik](https://stepik.org/users/369769667?auth=registration) and [LeetCode](https://leetcode.com/inlae) 
 
-### [Certificates and Diplomas](https://github.com/IvanAnvi/wastepaper)
-
 
 ### Connect
 
@@ -31,44 +29,28 @@
 <img align="left" alt="Excel" width="35px" src="https://cdn-icons-png.flaticon.com/512/732/732220.png" />
 <img align="left" alt="AdobeIllustrator" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" />
 
+<br >
 <br />
+<br >
 <br />
+
+## Certificates and Diplomas [-> GO TO REPO](https://github.com/IvanAnvi/wastepaper)
+
 <br />
 <br />
 
-## DATA ANALYSIS 
-## [-> GO TO REPO](https://github.com/INLAE/mat_stat)
+## DATA ANALYSIS [-> GO TO REPO](https://github.com/INLAE/mat_stat)
 
 <br >
 <br />
 
-## SQL
-## [-> GO TO REPO](https://github.com/INLAE/SQL_karpov_course)
+## SQL [-> GO TO REPO](https://github.com/INLAE/SQL_karpov_course)
 <br />
 <br />
 
-## Python education 2022 
-## [-> GO TO REPO](https://github.com/Asterlok/python_flow/blob/main/README.md)
+## Python education 2022 [-> GO TO REPO](https://github.com/Asterlok/python_flow/blob/main/README.md)
 <br />
 <br />
-
-
-
-
-| **Название** | **Описание** |
-| -------------------- | :--------------------- |
-| Виртуальная стажировка Mars [Сертификат](https://github.com/INLAE/wastepaper/blob/main/data_analysis_intern.pdf)| Виртуальная стажировка в Mars (занимался Excel анализом данных (VLOOUKUP, Pivot Tables).
-| Виртуальная стажировка Java-разработка в Сбере [Сертификат](https://github.com/INLAE/wastepaper/blob/main/virtualInternSber.pdf)| Чтение данных из .csv справочника городов, загрузка в модель данных и анализ (sort by...,max..., sum..., select, groupby -- *lambda*, *stream*, *comparator*.
-| Масштабный курс по SQL от Stepik. [Сертификат](https://github.com/Asterlok/wastepaper/blob/main/SQL_Stepik.pdf)|В курсе большинство шагов — это практические задания на создание SQL-запросов.
-|Changellenge >> Cup IT. Аналитика Данных [Анализ](https://github.com/Asterlok/cross_sales_analysis) [Диплом](https://github.com/IvanAnvi/wastepaper/blob/main/7.%20Cup%20IT%202022%20FINAL.pdf)|Чемпионат по решению бизнес-кейса Магнит и P&G инструментами анализа данных: EXCEL, регрессия, Python (Pandas, sklearn). Прошли в финал с 1 места. В финале кейс от Северстали. Модель для оценки рисков от простоя сервисов. Вне призовых мест. Проиграли.
-| Продвинутый курс по Python. [Сертификат](https://github.com/IvanAnvi/wastepaper/blob/main/1.%20Python%20Stepik.pdf)|Классы, итераторы, генераторы, файлы, строки, лямбды и регулярки.
-| Программа дополнительного бизнес образования 5x5. [Сертификат](https://github.com/IvanAnvi/wastepaper/blob/main/5.BusinessEdu%205x5.jpg)|5-недельный интенсив с 5 лекциями, практикой и защитой бизнес проекта.
-| TOP 15% на Чемпионате CUP MOSCOW. [Диплом](https://github.com/IvanAnvi/wastepaper/blob/main/6.%20Cup%20Moscow%202021.pdf)|Чемпионат по решению бизнес-кейсов. Полуфинал.
-
-
-<br />
-
-
 ### Java Projects
 
 | **wonderful name** | **about** |
