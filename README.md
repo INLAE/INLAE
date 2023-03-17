@@ -37,13 +37,21 @@
 <br />
 
 ## DATA ANALYSIS 
-## [GO TO REPO](https://github.com/INLAE/mat_stat)
+## [-> GO TO REPO](https://github.com/INLAE/mat_stat)
 
+<br >
+<br />
+
+## SQL
+## [-> GO TO REPO](https://github.com/INLAE/SQL_karpov_course)
 <br />
 <br />
 
-### [REPO: Python and SQL (analysis, algorithms)](https://github.com/Asterlok/python_flow/blob/main/README.md)
+## Python education 2022 
+## [-> GO TO REPO](https://github.com/Asterlok/python_flow/blob/main/README.md)
 <br />
+<br />
+
 
 
 
